@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-16)
+## Unreleased (2026-01-12)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`4b1efc6`](https://github.com/stdlib-js/stdlib/commit/4b1efc6552af03e1b7d260f6f10e7e042e7d68f6) - **docs:** update dtype type _(by Athan Reines)_
+-   [`ff435c0`](https://github.com/stdlib-js/stdlib/commit/ff435c01d291e9ef75429a026fb221b729aa4a07) - **docs:** update dtype type _(by Athan Reines)_
 -   [`769ab89`](https://github.com/stdlib-js/stdlib/commit/769ab89a85f7c5c5be06e4b49c1cc69f8b528d15) - **feat:** add `stats/nanrange-by` [(#9006)](https://github.com/stdlib-js/stdlib/pull/9006) _(by Sachin Pangal, Athan Reines)_
 
 </details>
