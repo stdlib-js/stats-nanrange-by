@@ -50,7 +50,7 @@ The [**range**][range] is defined as the difference between the maximum and mini
 ## Usage
 
 ```javascript
-import nanrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanrange-by@deno/mod.js';
+import nanrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanrange-by@v0.1.1-deno/mod.js';
 ```
 
 #### nanrangeBy( x\[, options], clbk\[, thisArg] )
@@ -272,7 +272,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-d
 import getDType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@deno/mod.js';
-import nanrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanrange-by@deno/mod.js';
+import nanrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanrange-by@v0.1.1-deno/mod.js';
 
 // Define a function for generating an object having a random value:
 function random() {
